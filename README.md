@@ -1,1 +1,1 @@
-# barbershop-test
+Учебный проект с курса HTML academy
